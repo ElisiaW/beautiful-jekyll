@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About Me
-subtitle: Elisia Wright
+image: /img/meworking.png
 ---
 
-My name is Elisia Wright.
+Originally from New Jersey, Elisia is a double major in computer science and
+environmental studies at Allegheny College.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Notable Research Projects
 
-### My Research
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*An Intelligent Underwater Robotic Smart-Sensing System for Water Quality Testing*
 
 ![Group Photo](/img/group_pic.jpg)
+
+This project consists of designing an underwater robotic unit that uses a variety
+of sensors to collect data at different depth of a body of water. The data is then
+collected and analyzed, and the results are used to understand and predict harmful
+algal blooms through the use of water quality testing.
+
+### Completed Research Projects
+
+*Meeting Allegheny College’s Sustainability Goals Through Monitoring and Reducing
+Carbon Emissions Related to Transportation and Travel*
+
+*Using Python and GitHub for Team Formation and Assessment*
