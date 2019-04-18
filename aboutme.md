@@ -1,7 +1,12 @@
 ---
 layout: page
 title: About Me
+<<<<<<< current
 image: /img/meworking.png
+=======
+subtitle: Elisia Wright
+image: /img/robotresearch.jpg
+>>>>>>> before discard
 ---
 
 Originally from New Jersey, Elisia is a double major in computer science and
