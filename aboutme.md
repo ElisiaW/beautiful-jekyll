@@ -12,7 +12,7 @@ environmental studies at Allegheny College.
 
 *An Intelligent Underwater Robotic Smart-Sensing System for Water Quality Testing*
 
-![Group Photo](/img/group_pic.jpg)
+![Group Photo](/img/underwaterrobots.jpg)
 
 This project consists of designing an underwater robotic unit that uses a variety
 of sensors to collect data at different depth of a body of water. The data is then

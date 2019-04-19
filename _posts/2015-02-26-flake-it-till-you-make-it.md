@@ -11,4 +11,4 @@ tags: [research, robot]
 
 ## Two Robot Designs
 
-![Different Models](/img/underwaterrobots.jpg)
+![Different Models](/img/group_pic.jpg)
