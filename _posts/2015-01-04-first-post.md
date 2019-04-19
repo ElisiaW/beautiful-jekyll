@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Algal Blooms
-image: /img/hello_world.jpeg
+image: /img/algae_china_beach.jpg
+tags: [algae, water quality]
 ---
 
 Algal blooms can pose a threat to an aquatic ecosystem, the economy, and even
