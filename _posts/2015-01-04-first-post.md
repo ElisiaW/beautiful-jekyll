@@ -10,6 +10,8 @@ public health. Not all algal blooms are harmful, as an abundance of algae would
 result in a large food supply for the organisms in that environment. They are
 harmful, however, when they cause hypoxia or when they become toxic.
 
+![Algal Bloom](/img/algae_wave.png)
+
 *Hypoxia* occurs when there is a depletion of oxygen in a marine environment.
 This is most likely a result of *eutrophication*, which is when there is an
 overabundance of nutrients present in the water, which then leads to an increased
