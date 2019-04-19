@@ -7,7 +7,7 @@ tags: [research, robot]
 
 ## Cutting Parts
 
-![Drilling Holes](/img/drilling.jpg)
+![Drilling Holes](/img/drilling.jpeg)
 
 ## Two Robot Designs
 

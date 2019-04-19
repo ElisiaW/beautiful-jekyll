@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algal Blooms
-image: /img/algae_china_beach.jpg
+image: /img/algae_shore.jpg
 tags: [algae, water quality]
 ---
 
