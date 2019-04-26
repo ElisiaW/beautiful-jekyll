@@ -22,4 +22,4 @@ Not only is the health of the people threatened, but there are many other
 negative impacts as well. There are extreme trends of increasing algal blooms
 and larger areas are being affected. This is resulting in higher economical
 losses in costal communities, as well as negatively impacting fisheries resources.
-World maps of other poisonings can be found ([here](https://www.whoi.edu/website/redtide/regions/world-distribution/)).
+World maps of other poisonings can be found [here](https://www.whoi.edu/website/redtide/regions/world-distribution/).
