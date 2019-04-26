@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yellow Sea, Green Carpet
+title: Not So Yellow Sea
 image: /img/algae_china_beach.jpg
 tags: [algae, algal bloom, international]
 ---
